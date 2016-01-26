@@ -1,0 +1,1 @@
+## Please download releases from the [pypi package index](http://pypi.python.org/pypi/pyspatialite/) ##
